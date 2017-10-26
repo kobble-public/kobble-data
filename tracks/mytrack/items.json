@@ -18,11 +18,11 @@
               "url" : "https:\/\/www.wsj.com\/asia"
             }
           },
-          "title" : "www.wsj.com",
+          "title" : "The Wall Street Journal & Breaking News,",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "www.wsj.com",
+          "subtitle" : "WSJ online coverage of breaking news and current h",
           "expanded" : true,
           "children" : [
 
