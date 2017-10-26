@@ -18,7 +18,7 @@
               "url" : "http:\/\/www.usedchurchitems.com\/stations-of-the-cross"
             }
           },
-          "title" : "www.usedchurchitems.com",
+          "title" : "Used Church Items",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
