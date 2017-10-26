@@ -9,9 +9,25 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Test",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.usedchurchitems.com\/stations-of-the-cross"
+            }
+          },
+          "title" : "www.usedchurchitems.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.usedchurchitems.com",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        }
       ]
     }
   ]
