@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.wsj.com\/articles\/ge-explores-exiting-from-the-railroad-business-1509031146"
+        }
+      },
+      "title" : "GE Explores Exiting From the Railroad Bu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "General Electric Co. is looking to exit from the r",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
