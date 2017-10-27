@@ -3,6 +3,15 @@
   "subtitle" : "My Channel",
   "tracks" : [
     {
+      "title" : "Test",
+      "subtitle" : "Test",
+      "track" : {
+        "owner" : "kobble-public",
+        "path" : "tracks\/test",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "My Track",
       "subtitle" : "My Track",
       "track" : {
