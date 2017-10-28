@@ -49,23 +49,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/www.wsj.com\/asia"
-            }
-          },
-          "title" : "The Wall Street Journal & Breaking News,",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "WSJ online coverage of breaking news and current h",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/www.usedchurchitems.com\/stations-of-the-cross"
             }
           },
