@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.wsj.com\/articles\/alibabas-joseph-tsai-buys-into-nbas-brooklyn-nets-at-record-price-1509115795"
+        }
+      },
+      "title" : "www.wsj.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.wsj.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.wsj.com\/articles\/samsung-investors-expect-strong-earningsand-answers-1509197441"
         }
       },
