@@ -50,40 +50,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.wsj.com\/news\/business"
-        }
-      },
-      "title" : "www.wsj.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.wsj.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.wsj.com\/news\/business"
-        }
-      },
-      "title" : "www.wsj.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.wsj.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
