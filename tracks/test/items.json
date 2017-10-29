@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.wsj.com\/articles\/akzo-nobel-in-talks-with-axalta-over-30-billion-merger-of-equals-1509198269"
-        }
-      },
-      "title" : "www.wsj.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.wsj.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.wsj.com\/articles\/cheap-suits-get-a-high-fashion-upgrade-1509190332"
         }
       },
