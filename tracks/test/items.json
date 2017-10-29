@@ -38,31 +38,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.wsj.com\/articles\/akzo-nobel-in-talks-with-axalta-over-30-billion-merger-of-equals-1509198269"
+          "url" : "https:\/\/www.wsj.com\/articles\/samsung-investors-expect-strong-earningsand-answers-1509197441"
         }
       },
-      "title" : "www.wsj.com",
+      "title" : "Samsung Investors Expect Strong Earnings",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.wsj.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.wsj.com\/articles\/akzo-nobel-in-talks-with-axalta-over-30-billion-merger-of-equals-1509198269"
-        }
-      },
-      "title" : "www.wsj.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.wsj.com",
+      "subtitle" : "Samsung Electronics is expected to deliver all-tim",
       "expanded" : true,
       "children" : [
 
